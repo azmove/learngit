@@ -1,7 +1,7 @@
 1.how to use git 
 
-first create an folder use :
-	mkdir learngit
+first create an folder use command :
+	mkdir learngit  (for example learngit as the folder name )
 and  
 	cd learngit
 
