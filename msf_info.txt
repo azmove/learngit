@@ -1,0 +1,4 @@
+MSF web service username: msf
+MSF web service password: msf
+MSF web service user API token: a477c049c5d0c089cedfee32e98116801ff9d93b80375a6e49cd71a4373e740779052f0de95718f6
+https://localhost:5443/api/v1/auth/account
